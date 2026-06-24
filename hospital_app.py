@@ -5,7 +5,7 @@ import pickle
 import os
 
 st.set_page_config(
-    page_title="Smart Hospital Patient Navigator", page_icon="🏥", layout="wide"
+    page_title="Smart Hospital Patient Navigator by Mr. Halip", page_icon="🏥", layout="wide"
 )
 
 st.markdown(

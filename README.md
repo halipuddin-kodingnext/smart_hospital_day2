@@ -1,4 +1,4 @@
-# 🏥 Smart Hospital Patient Navigator
+# 🏥 Smart Hospital Patient Navigator by Mr Halip
 
 A machine learning-powered web application that intelligently recommends the appropriate hospital department based on patient symptoms, vital signs, and medical history.
 
